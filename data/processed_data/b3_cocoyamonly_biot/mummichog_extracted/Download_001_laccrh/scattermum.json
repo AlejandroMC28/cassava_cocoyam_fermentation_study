@@ -1,0 +1,5 @@
+{
+ "pval": [ 2.736624, 1.168501, 0.7554013, 0.6097009, 0.6097009, 0.551835, 0.551835, 0.4606478, 0.3622802, 0.3622802, 0.3622802, 0.2914686, 0.2378994, 0.2378994, 0.196072, 0.1626957, 0.1134754, 0.04749331 ],
+"enr": [ 7.642923, 2.866151, 2.547608, 3.821461, 3.821461, 1.910767, 1.910767, 2.547641, 1.910731, 1.910731, 1.910731, 1.528561, 1.273804, 1.273804, 1.091834, 0.9553836, 0.7642923, 0.5095282 ],
+"pathnames": [ "Glycine, serine and threonine metabolism", "Cysteine and methionine metabolism", "Lysine biosynthesis", "Monobactam biosynthesis", "Styrene degradation", "Galactose metabolism", "Phenylalanine, tyrosine and tryptophan biosynthesis", "Arginine and proline metabolism", "Pyrimidine metabolism", "Alanine, aspartate and glutamate metabolism", "Vitamin B6 metabolism", "D-Amino acid metabolism", "Fructose and mannose metabolism", "Tyrosine metabolism", "Valine, leucine and isoleucine biosynthesis", "Amino sugar and nucleotide sugar metabolism", "Phenylalanine metabolism", "Purine metabolism" ] 
+}
